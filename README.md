@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/fittrackee-1?utm_medium=integration&utm_source=button&utm_campaign=fittrackee)
+
 # FitTrackee on Railway
 
 A Railway template for [FitTrackee](https://codeberg.org/FitTrackee/FitTrackee), a self-hosted outdoor activity tracker: upload GPX, FIT, KML or TCX files, see your routes on a map and keep your own statistics.

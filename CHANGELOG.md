@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-16)
+
+- README: Deploy on Railway button for the published template `fittrackee-1`. No change to the images or start scripts.
+
 ## 1.3.8 (2026-11-16)
 
 First release.
